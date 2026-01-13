@@ -1,3 +1,5 @@
+> This project is no longer maintained, feel free to fork the project.
+
 ![Netfox: A lightweight, one line setup, network debugging library](https://raw.githubusercontent.com/kasketis/netfox/master/netfox-logo.png)
 
 <p align="center">
